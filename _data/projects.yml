@@ -2,15 +2,20 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: Vashavali
   role: Founder & Primary Developer
   duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  url: "https://ratupar.in/community/"
+  description: Vanhavali is a PHP based webapp made to store/modify and visualize family and ancestoral data.
+It is build with MySQL with OAuth integration of Facebook/Google for easier access. It shows tree
+based visualization of the members with UI through which users can modify data.
+
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Google Summer of Code 2014
+  role: Student Developer
+  duration: May 2014 &mdash; Sept 2014
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: As part of GSOC’14, I worked on GNU LibreDWG library and added automated test suite in the
+build pipeline. I also wrote initial unit tests for the core library functions. The unit tests were written
+in C. I had used Python in the automated suite to generate proper report of the tests.
