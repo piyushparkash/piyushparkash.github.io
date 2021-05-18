@@ -6,9 +6,7 @@
   role: Founder & Primary Developer
   duration: 2012 &mdash; Present
   url: "https://ratupar.in/community/"
-  description: Vanhavali is a PHP based webapp made to store/modify and visualize family and ancestoral data.
-It is build with MySQL with OAuth integration of Facebook/Google for easier access. It shows tree
-based visualization of the members with UI through which users can modify data.
+  description: Vanhavali is a PHP based webapp made to store/modify and visualize family and ancestoral data. It is build with MySQL with OAuth integration of Facebook/Google for easier access. It shows tree based visualization of the members with UI through which users can modify data.
 
 
 # Springfield Community Outreach Group
@@ -16,6 +14,4 @@ based visualization of the members with UI through which users can modify data.
   role: Student Developer
   duration: May 2014 &mdash; Sept 2014
   # url: "#"
-  description: As part of GSOC’14, I worked on GNU LibreDWG library and added automated test suite in the
-build pipeline. I also wrote initial unit tests for the core library functions. The unit tests were written
-in C. I had used Python in the automated suite to generate proper report of the tests.
+  description: As part of GSOC’14, I worked on GNU LibreDWG library and added automated test suite in the build pipeline. I also wrote initial unit tests for the core library functions. The unit tests were written in C. I had used Python in the automated suite to generate proper report of the tests.
